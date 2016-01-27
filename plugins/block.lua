@@ -1,19 +1,3 @@
-Skip to content
-This repository  
-Search
-Pull requests
-Issues
-Gist
- @abbasgh12345
- Watch 1
-  Star 0
- Fork 2 Creedsteam/creed
- Code  Issues 0  Pull requests 0  Wiki  Pulse  Graphs
-Branch: master Find file Copy pathcreed/plugins/Block.lua
-ac6f3d1  23 days ago
-@Kosenanats Kosenanats Rename block.lua to Block.lua
-1 contributor
-RawBlameHistory     34 lines (32 sloc)  783 Bytes
 do
 -- https://github.com/SEEDTEAM/TeleSeed --
 local function block_user_callback(cb_extra, success, result)
@@ -47,5 +31,3 @@ return {
   run = run,
  -- https://github.com/SEEDTEAM/TeleSeed --
 }
-Status API Training Shop Blog About Pricing
-© 2016 GitHub, Inc. Terms Privacy Security Contact Help
